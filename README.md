@@ -1,4 +1,4 @@
-- User manual (pdf) - https://trello.com/invite/b/HnApDnaj/d8bf729945e207b7053f04438659b9ff/services-sprint-board
+- User manual (pdf) - https://drive.google.com/file/d/12YTsxzObcvuKw6w7vBLnaMTTqk9l5IRY/view?usp=sharing
 - User manual (overleaf)- https://www.overleaf.com/8217861631wccggqwzwmwh
 - Project management - https://trello.com/invite/b/HnApDnaj/d8bf729945e207b7053f04438659b9ff/services-sprint-board
 
